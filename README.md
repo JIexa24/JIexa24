@@ -30,9 +30,9 @@ Old keys:
 
 - Open MPI coll/sharm component: Perform MPI blocking collectivie exchanges (All-to-one gather/reduce, One-to-all scatter/bcast, All-to-all exchanges) through shared memory with queue system and CMA, XPMEM.  
  [Open MPI coll/sharm component](//github.com/r9odt/ompi/tree/feat-coll-sharm-component)  
-- Gitlab users/groups sync with FreeIPA  
- [gitlab-ldap-sync](//github.com/r9odt/gitlab-ldap-sync)  
- [![License](https://img.shields.io/github/license/r9odt/gitlab-ldap-sync)](//github.com/r9odt/gitlab-ldap-sync/blob/master/LICENSE)
+- External syncer for applications with FreeIPA  
+ [ldap-syncer](//github.com/r9odt/ldap-syncer)  
+ [![License](https://img.shields.io/github/license/r9odt/ldap-syncer)](//github.com/r9odt/ldap-syncer/blob/master/LICENSE)
 - FreeIPA Passwords checker. Check passwords for presence in the specified dictionary  
  [freeipa-passwords-check](//github.com/r9odt/freeipa-passwords-check)  
  [![License](https://img.shields.io/github/license/r9odt/freeipa-passwords-check)](//github.com/r9odt/freeipa-passwords-check/blob/master/LICENSE)
