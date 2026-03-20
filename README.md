@@ -33,12 +33,15 @@ Old keys:
 - External syncer for applications with FreeIPA  
  [ldap-syncer](//github.com/r9odt/ldap-syncer)  
  [![License](https://img.shields.io/github/license/r9odt/ldap-syncer)](//github.com/r9odt/ldap-syncer/blob/master/LICENSE)
-- FreeIPA Passwords checker. Check passwords for presence in the specified dictionary  
- [freeipa-passwords-check](//github.com/r9odt/freeipa-passwords-check)  
- [![License](https://img.shields.io/github/license/r9odt/freeipa-passwords-check)](//github.com/r9odt/freeipa-passwords-check/blob/master/LICENSE)
 - Impemention of merge sort on Golang  
  [go-mergeSort](//github.com/r9odt/go-mergeSort)  
  [![License](https://img.shields.io/github/license/r9odt/go-mergeSort)](//github.com/r9odt/go-mergeSort/blob/master/LICENSE)
+- Golang logging wrapper for github.com/rs/zerolog  
+ [go-logging](//github.com/r9odt/go-logging)  
+ [![License](https://img.shields.io/github/license/r9odt/go-logging)](//github.com/r9odt/go-logging/blob/master/LICENSE)
+- FreeIPA Passwords checker. Check passwords for presence in the specified dictionary  
+ [freeipa-passwords-check](//github.com/r9odt/freeipa-passwords-check)  
+ [![License](https://img.shields.io/github/license/r9odt/freeipa-passwords-check)](//github.com/r9odt/freeipa-passwords-check/blob/master/LICENSE)
 - API Client for Chef Server with web interface and ssh-client for manual deploing nodes  
  [chef-webapi](//github.com/r9odt/chef-webapi)  
  [![License](https://img.shields.io/github/license/r9odt/chef-webapi)](//github.com/r9odt/chef-webapi/blob/master/LICENSE)
